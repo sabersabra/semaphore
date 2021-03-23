@@ -1,0 +1,2 @@
+# semaphore.gif
+test semaphore
