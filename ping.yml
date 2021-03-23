@@ -1,0 +1,7 @@
+---
+- name: Ping Test Server
+  hosts: web
+  become: no
+
+  tasks:
+    - action: ping
